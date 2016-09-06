@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TopSnackbarDemo</string>
+    <string name="btn_top_snackbar_success">弹出成功TopSnackbar</string>
+    <string name="btn_top_snackbar_fail">弹出失败TopSnackbar</string>
+    <string name="btn_top_snackbar_with_action">弹出带有动作的TopSnackbar</string>
+    <string name="btn_top_snackbar_use_design">弹出自定义顶部显示的Snackbar</string>
 </resources>
