@@ -1,4 +1,6 @@
 # TopSnackbar
+[ ![Download](https://api.bintray.com/packages/isanwenyu/maven/TopSnackbar/images/download.svg) ](https://bintray.com/isanwenyu/maven/TopSnackbar/_latestVersion)
+
  TopSnackbars provide brief feedback about an operation through a message at the top of the screen. 
  @see android.support.design.widget.Snackbar
  
