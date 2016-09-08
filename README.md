@@ -2,6 +2,23 @@
  TopSnackbars provide brief feedback about an operation through a message at the top of the screen. 
  @see android.support.design.widget.Snackbar
  
+## Getting Started
+- Gradle
+
+```
+compile 'com.isanwenyu.TopSnackbar:topsnackbar:1.0.0'
+```
+- Maven
+
+```
+<dependency>
+  <groupId>com.isanwenyu.TopSnackbar</groupId>
+  <artifactId>topsnackbar</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+
 
 ##Quick Overview
 ![image](gif/topsnackbar_demo.gif)
@@ -85,7 +102,7 @@ TopSnackbar setLayoutHeight(@NonNull int height) | Update the height in this {@l
 
 ## Todo
 
- 加入中央仓库 <br>
+ ~~加入中央仓库~~ <br>
  从顶部整体弹出实现 <br>
 
 ## License
