@@ -111,7 +111,7 @@ public class TopSnackbar {
         mTargetParent = parent;
         mContext = parent.getContext();
 
-//        ThemeUtils.checkAppCompatTheme(mContext);
+        ThemeUtils.checkAppCompatTheme(mContext);
 
         LayoutInflater inflater = LayoutInflater.from(mContext);
         mView = (TopSnackbarLayout) inflater.inflate(R.layout.design_layout_topsnackbar, mTargetParent, false);

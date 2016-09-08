@@ -18,6 +18,8 @@ allprojects {
         jcenter()
         mavenCentral()
     }
+    //解决android support包找不到问题
+    tasks.withType(Javadoc).all { enabled = false }
 }
 
 task clean(type: Delete) {
