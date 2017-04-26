@@ -22,7 +22,8 @@ compile 'com.isanwenyu.TopSnackbar:topsnackbar:1.0.0'
 ```
 
 
-##Quick Overview
+## Quick Overview
+
 ![image](gif/topsnackbar_demo.gif)
 
 ## Usage
@@ -106,6 +107,7 @@ TopSnackbar setLayoutHeight(@NonNull int height) | Update the height in this {@l
 
  ~~加入中央仓库~~ <br>
  从顶部整体弹出实现 <br>
+ 修复setLayoutGravity无效问题
 
 ## License
 

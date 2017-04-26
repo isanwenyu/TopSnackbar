@@ -330,6 +330,7 @@ public class TopSnackbar {
      */
     @NonNull
     public TopSnackbar setLayoutGravity(@NonNull int gravity) {
+        // TODO: 16/9/8 外部设置无效
         mView.setGravity(gravity);
         return this;
     }

@@ -41,5 +41,13 @@
             android:layout_margin="@dimen/activity_horizontal_margin"
             android:onClick="onClick"
             android:text="@string/btn_top_snackbar_with_action" />
+
+        <Button
+            android:id="@+id/btn_normal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:onClick="onClick"
+            android:text="@string/btn_snackbar_with_action"/>
     </LinearLayout>
 </android.support.design.widget.CoordinatorLayout>

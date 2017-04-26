@@ -20,6 +20,7 @@
         android:id="@+id/layout_messgae"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|left|start"
         android:layout_weight="1"
         android:gravity="center"
         android:orientation="horizontal">
